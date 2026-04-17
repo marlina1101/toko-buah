@@ -304,6 +304,5 @@ Laravel CRUD Project (Learning Purpose)
 
 ---
 
-Kalau kamu mau next level:
-👉 aku bisa upgrade ini jadi **README profesional GitHub (dengan badge, screenshot, struktur folder, install clone git, dll)**
+
 ```
